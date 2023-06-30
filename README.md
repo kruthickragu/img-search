@@ -1,2 +1,2 @@
-# img-search
-img searcher
+# Image-Search-JS
+fetched image using Unsplash Api
